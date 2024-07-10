@@ -1,0 +1,19 @@
+{
+	"name": "haxball-bot",
+	"version": "1.0.0",
+	"description": "A custom discord bot commission made for a haxball discord server",
+	"main": "src/main.js",
+	"scripts": {
+		"test": "node testing.js"
+	},
+	"author": "rolyPolyVole",
+	"license": "ISC",
+	"dependencies": {
+		"@discordjs/rest": "^1.7.1",
+		"chalk": "^4.1.2",
+		"discord-api-types": "^0.37.50",
+		"discord.js": "^14.11.0",
+		"dotenv": "^16.3.1",
+		"fs": "^0.0.1-security"
+	}
+}
