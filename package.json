@@ -4,7 +4,7 @@
 	"description": "A custom discord bot commission made for a haxball discord server",
 	"main": "src/main.js",
 	"scripts": {
-		"test": "node testing.js"
+		"run": "node ."
 	},
 	"author": "rolyPolyVole",
 	"contributors": ["Slqmy"],
