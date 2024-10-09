@@ -1,7 +1,7 @@
 {
   "name": "haxball-bot",
   "version": "1.0.0",
-  "description": "A custom discord bot commission made for a haxball discord server",
+  "description": "A custom Discord bot commission made for a haxball discord server.",
   "main": "src/main.js",
   "scripts": {
     "run": "node ."
