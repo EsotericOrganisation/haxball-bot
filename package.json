@@ -6,10 +6,19 @@
   "scripts": {
     "run": "node ."
   },
-  "author": "Esoteric Organisation",
+  "author": {
+    "name": "Esoteric Organisation",
+    "url": "https://www.github.com/EsotericOrganisation"
+  },
   "contributors": [
-    "rolyPolyVole",
-    "Esoteric Enderman"
+    {
+      "name": "rolyPolyVole",
+      "url": "https://www.github.com/rolyPolyVole"
+    },
+    {
+      "name": "Esoteric Enderman",
+      "url": "https://www.github.com/EsotericEnderman"
+    }
   ],
   "license": "MIT",
   "dependencies": {
